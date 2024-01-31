@@ -1,0 +1,39 @@
+1.Why CSS selectors are used in HTML?
+
+Sol:CSS (Cascading Style Sheets) selectors are used in HTML to target and style specific elements on a web page.CSS selectors enhance the presentation layer of HTML by allowing developers to target specific elements and apply styles, contributing to a visually appealing and well-organized web page.
+
+2.What are the different types of Selectors in CSS?
+
+Sol:There are various types of selectors in CSS:
+Type or Element Selectors:Selects elements based on their HTML tag name.
+
+Class Selectors:Selects elements based on their class attribute
+
+ID Selectors:Selects a single element based on its id attribute.
+
+Universal Selector:Selects all elements on the page.
+Example: *
+
+Child Selector:Selects an element that is a direct child of another specified element
+
+Pseudo-classes:Selects elements based on their state or position.
+and many more.
+
+3.How do you include external fonts and apply them?
+
+Sol:Decide font .This can be a font hosted by a third-party service (like Google Fonts or Adobe Fonts). Now for Google Fonts, include a link to the font in the <head> section of your HTML document. Here's an example using Google Fonts:
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+After linking to the external font, we can use it in our CSS by specifying the font-family property for the desired elements.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
